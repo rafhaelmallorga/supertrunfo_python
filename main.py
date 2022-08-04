@@ -1,7 +1,10 @@
-from top_dyno import generate_random_dynos_data
+import top_dyno
+
+FILEPATH = 'top_dyno.json'
 
 def main():
-    print(generate_random_dynos_data())
+    # print(top_dyno.generate_random_dynos_data())
+    top_dyno.create_random_dyno_deck(FILEPATH)
 
 if __name__ == '__main__':
     main()

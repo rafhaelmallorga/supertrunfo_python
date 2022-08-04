@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Mallorgassauro Rex",
+    "strength": 7,
+    "agility": 1.6,
+    "heigth": 1.19
+  },
+  {
+    "name": "Devceratops",
+    "strength": 3,
+    "agility": 3.6,
+    "heigth": 3.9
+  },
+  {
+    "name": "Pythondonte",
+    "strength": 2,
+    "agility": 7.0,
+    "heigth": 1.38
+  },
+  {
+    "name": "Galinha Caipira",
+    "strength": 2,
+    "agility": 3.3,
+    "heigth": 6.93
+  }
+]
