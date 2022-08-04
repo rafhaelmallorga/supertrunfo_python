@@ -15,3 +15,9 @@ def create_random_dyno_deck(filepath: str) -> None:
 
     write_json(filepath, generated_dynos)
     
+def generate_players_decks(filepath: str):
+    dyno_deck = read_json()
+
+    split_deck = len(dyno_deck) // 2
+
+    return (dyno_deck[:split_deck], dyno_deck[split_deck:])
