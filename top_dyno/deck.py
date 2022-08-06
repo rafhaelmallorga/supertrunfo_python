@@ -15,8 +15,10 @@ def create_random_dyno_deck(filepath: str) -> None:
 
     write_json(filepath, generated_dynos)
     
-def generate_players_decks(filepath: str):
-    dyno_deck = read_json()
+def generate_players_decks(filepath: str) -> tuple[list]:
+    dyno_deck = read_json(filepath)
+
+    random.shuffle(dyno_deck)
 
     split_deck = len(dyno_deck) // 2
 

@@ -1,26 +1,26 @@
 [
   {
     "name": "Mallorgassauro Rex",
-    "strength": 7,
-    "agility": 1.6,
-    "heigth": 1.19
+    "strength": 6,
+    "agility": 3.5,
+    "heigth": 7.86
   },
   {
     "name": "Devceratops",
-    "strength": 3,
-    "agility": 3.6,
-    "heigth": 3.9
+    "strength": 4,
+    "agility": 0.1,
+    "heigth": 1.76
   },
   {
     "name": "Pythondonte",
-    "strength": 2,
-    "agility": 7.0,
-    "heigth": 1.38
+    "strength": 4,
+    "agility": 1.8,
+    "heigth": 4.65
   },
   {
     "name": "Galinha Caipira",
-    "strength": 2,
-    "agility": 3.3,
-    "heigth": 6.93
+    "strength": 1,
+    "agility": 0.4,
+    "heigth": 5.49
   }
 ]
